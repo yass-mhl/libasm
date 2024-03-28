@@ -22,7 +22,7 @@ Error handling is a critical aspect of `libasm`. The library meticulously checks
 To use `libasm`, clone this repository to your local machine and build the library using the provided Makefile:
 
 ```sh
-git clone https://github.com/yourusername/libasm.git
+git clone https://github.com/yass-mhl/libasm.git
 cd libasm
 make
 make test
